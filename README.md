@@ -124,3 +124,12 @@ This is a **fork** of [ClawLabsAI/free-ai-models](https://github.com/ClawLabsAI/
 - License: MIT (same as original)
 
 > "Free AI for everyone. No gatekeepers."
+
+## Related Repositories
+
+| Repo | Purpose |
+|------|---------|
+| [my-ai-tools](https://github.com/toxicwind/my-ai-tools) | AI tooling configs |
+| [openrouter-free-model](https://github.com/toxicwind/openrouter-free-model) | OpenRouter browser |
+| [sniper-super-v3](https://github.com/toxicwind/sniper-super-v3) | Contract hunter |
+| [kimi-team-recon](https://github.com/toxicwind/kimi-team-recon) | Infrastructure intel |
