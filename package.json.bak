@@ -1,0 +1,44 @@
+{
+  "name": "free-ai-models",
+  "version": "1.1.0",
+  "description": "Daily-updated list of all currently available free AI models across ALL backends",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/fetch-models.js",
+    "format": "prettier --write scripts/*.js",
+    "lint": "eslint scripts/*.js",
+    "fix": "eslint --fix scripts/*.js"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.0",
+    "eslint": "^9.0.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "ai",
+    "llm",
+    "free",
+    "models",
+    "openrouter",
+    "gemini",
+    "llama",
+    "deepseek",
+    "gpt",
+    "claude",
+    "mistral",
+    "qwen",
+    "groq",
+    "cerebras",
+    "fireworks",
+    "together",
+    "ollama",
+    "pollinations",
+    "chatgpt-free",
+    "free-llm",
+    "ai-models",
+    "grok-build"
+  ],
+  "license": "MIT"
+}
